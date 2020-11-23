@@ -1,0 +1,144 @@
+{
+  "usersData": [
+    {
+      "id": 1,
+      "name": "kunal",
+      "email": "kunal66@gmail.com",
+      "password": 123456
+    },
+    {
+      "name": "shyam kumar",
+      "email": "s123@gmail.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "name": "ravi kumar",
+      "email": "r@gmail.com",
+      "password": "123456",
+      "id": 3
+    }
+  ],
+  "transactions": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "title": "salary",
+      "type": "credit",
+      "amount": 10000,
+      "timestamp": "2020-10-01 09:00"
+    },
+    {
+      "id": 2,
+      "user_id": 1,
+      "title": "rent",
+      "type": "debit",
+      "amount": 5000,
+      "timestamp": "2020-10-02 09:00"
+    },
+    {
+      "id": 3,
+      "user_id": 2,
+      "title": "salary",
+      "type": "credit",
+      "amount": 20000,
+      "timestamp": "2020-10-01 09:00"
+    },
+    {
+      "id": 4,
+      "user_id": 2,
+      "title": "rent",
+      "type": "debit",
+      "amount": 7500,
+      "timestamp": "2020-10-02 09:00"
+    },
+    {
+      "user_id": "3",
+      "title": "hello",
+      "type": "credit",
+      "amount": 500,
+      "timestamp": "14/10/2020, 00:39:09",
+      "id": 5
+    },
+    {
+      "user_id": "3",
+      "title": "Movie",
+      "type": "debit",
+      "amount": 12000,
+      "timestamp": "14/10/2020, 00:44:26",
+      "id": 6
+    },
+    {
+      "user_id": "3",
+      "title": "Docter",
+      "type": "debit",
+      "amount": 6700,
+      "timestamp": "14/10/2020, 00:45:32",
+      "id": 7
+    },
+    {
+      "user_id": 1,
+      "title": "Food",
+      "type": "debit",
+      "amount": 5000,
+      "timestamp": "14/10/2020, 01:34:57",
+      "id": 8
+    },
+    {
+      "user_id": 1,
+      "title": "Salary ",
+      "type": "credit",
+      "amount": 5000,
+      "timestamp": "14/10/2020, 01:35:19",
+      "id": 9
+    },
+    {
+      "user_id": "1",
+      "title": "Cloth",
+      "type": "debit",
+      "amount": 3560,
+      "timestamp": "14/10/2020, 01:54:04",
+      "id": 10
+    },
+    {
+      "user_id": "1",
+      "title": "jsdf",
+      "type": "debit",
+      "amount": 4534,
+      "timestamp": "14/10/2020, 01:58:45",
+      "id": 11
+    },
+    {
+      "user_id": "1",
+      "title": "jsdjfsd",
+      "type": "debit",
+      "amount": 453443,
+      "timestamp": "14/10/2020, 01:59:00",
+      "id": 12
+    },
+    {
+      "user_id": "1",
+      "title": "jsdjfsdqe",
+      "type": "credit",
+      "amount": 4534435,
+      "timestamp": "14/10/2020, 01:59:12",
+      "id": 13
+    },
+    {
+      "user_id": 1,
+      "title": "sdhwdg",
+      "type": "debit",
+      "amount": 18274,
+      "timestamp": "10/17/2020, 12:14:49 AM",
+      "id": 14
+    },
+    {
+      "user_id": 1,
+      "title": "madurendraKumar(rent)",
+      "type": "debit",
+      "amount": 30000,
+      "timestamp": "10/17/2020, 12:24:24 PM",
+      "id": 15
+    }
+  ]
+}
